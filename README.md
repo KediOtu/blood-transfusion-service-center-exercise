@@ -18,4 +18,4 @@
 
 **PART3:** I found out the column 'V3' need to be dropped because of correlated features. I mean, I need to drop correlated features while preprocessing the data.
 
-**PART4:** I got square root all of the data. Then I did the other preprocessing operations. I just try to get higher score on this dataset with Logistic Regression. While doing this, I learn data preprocessing. When I run the code the score change too much. Sometimes the score after processing the data is higher and sometimes it is not. I think its reason is splitting the train set and test set randomly. It looks like I need to find  best split.
+**PART4:** I got square root all of the data. Then I did the other preprocessing operations. I just try to get higher score on this dataset with Logistic Regression. While doing this, I learn data preprocessing. When I run the code the score changes too much. Sometimes the score after processing the data is higher and sometimes it is not. I think its reason is splitting the train set and test set randomly. It looks like I need to find the best split.
