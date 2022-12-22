@@ -22,4 +22,4 @@
 
 **Logistic_Reg_5:** While splitting the data I chose a random state number. So the data will split in the same way every time. Also I found a more easy way to handle the missing values.
 
-**Logisti_Regression:** :warning:THIS IS THE FINAL FORM OF MY LOGISTIC REGRESSION MODEL FOR THIS DATASET:warning: I fixed some of my mistakes. I'm not sure how accurate it is but I'm leaving the code like this for now. I will try K-Fold Classification with the same dataset.
+**Logisti_Regression:** :warning:THIS IS THE FINAL FORM OF MY LOGISTIC REGRESSION MODEL FOR THIS DATASET:warning: I fixed some of my mistakes. I'm not sure how accurate it is but I'm leaving the code like this for now. I will try K-Fold Cross Validation with the same dataset.
