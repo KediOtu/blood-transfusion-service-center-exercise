@@ -4,7 +4,7 @@
 
 
 
-### :boom: I try to learn Logistic Regression by practicing. I use the dataset 'blood-transfusion-service-center' from OpenML
+### :boom: I try to learn machine learning by practicing. I use the dataset 'blood-transfusion-service-center' from OpenML
 
 
 
